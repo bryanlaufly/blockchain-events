@@ -1,7 +1,12 @@
-## About Blockchain events
+## Blockchain events app
 
-Build using React, it enlists your blockchain events with the details of event name, location, description and city name 
+Build using React, it enlists your blockchain events with the details of event name, location, description, city and others
 
 
 
-Happy Coding!
+Happy buidling ~
+
+#Blockchain events App
+
+
+
